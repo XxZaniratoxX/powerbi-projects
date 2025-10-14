@@ -29,6 +29,5 @@ O dashboard permite **monitorar indicadores operacionais e financeiros**, auxili
 - **Excel (fonte de dados)**  
 
 ## 📸 Preview do Dashboard
-<p align="center">
-  <img src="img/dashboard-vendas.png" alt="Dashboard de Vendas" width="800">
-</p>
+
+![Preview Dashboard](Dashboard Vendas.jpg)
