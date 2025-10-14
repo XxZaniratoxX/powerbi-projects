@@ -16,7 +16,7 @@ Monitoramento de embarques de importação e desempenho logístico, com foco em 
 
 ### 🏭 Dashboard de Vendas
 Visão integrada de **receitas, produção, sazonalidade e desempenho por fazenda**, além da representatividade de países importadores e tipos de transporte.
-<img src="Dashboard Vendas/Dashboard_vendas.jpg" alt="Preview do Dashboard" />
+<img src="Dashboard Vendas/Dashboard Vendas.jpg" alt="Preview do Dashboard" />
 
 ## 🧠 Tecnologias Utilizadas
 - **Power BI**
