@@ -30,4 +30,4 @@ O dashboard permite **monitorar indicadores operacionais e financeiros**, auxili
 
 ## 📸 Preview do Dashboard
 
-<img src="Dashboard_vendas.jpg" alt="Preview do Dashboard" />
+<img src="Dashboard Vendas.jpg" alt="Preview do Dashboard" />
