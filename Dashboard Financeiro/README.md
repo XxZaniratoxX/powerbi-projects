@@ -26,4 +26,4 @@ O **Dashboard Financeiro** oferece uma análise detalhada dos resultados, auxili
 - **Excel (fonte de dados)**  
 
 ## 📸 Preview do Dashboard
-<img src="Dashboard Logística.jpg" alt="Preview do Dashboard" />
+<img src="Dashboard Financeiro.jpg" alt="Preview do Dashboard" />
