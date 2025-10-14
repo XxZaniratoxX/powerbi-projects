@@ -8,12 +8,15 @@ Cada dashboard foi construído a partir de um **business case realista**, aplica
 
 ### 💰 Dashboard Financeiro
 Análise de receitas, despesas e fluxo de caixa, permitindo o acompanhamento detalhado dos custos e o planejamento financeiro estratégico.
+<img src="Dashboard Financeiro/Dashboard Financeiro.jpg" alt="Preview do Dashboard" />
 
 ### 🚚 Dashboard de Logística (Comércio Exterior)
 Monitoramento de embarques de importação e desempenho logístico, com foco em **OTD (On Time Delivery)**, performance de operadores e identificação de exceções no processo.
+<img src="Dashboard Logística/Dashboard Logística.jpg" alt="Preview do Dashboard" />
 
 ### 🏭 Dashboard de Vendas
 Visão integrada de **receitas, produção, sazonalidade e desempenho por fazenda**, além da representatividade de países importadores e tipos de transporte.
+<img src="Dashboard Vendas/Dashboard_vendas.jpg" alt="Preview do Dashboard" />
 
 ## 🧠 Tecnologias Utilizadas
 - **Power BI**
