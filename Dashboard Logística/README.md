@@ -28,6 +28,5 @@ O dashboard atua como uma **torre de controle logística**, oferecendo uma visã
 - **Excel (fonte de dados)**  
 
 ## 📸 Preview do Dashboard
-<p align="center">
-  <img src="Dashboard Logística/Dashboard Logistica.jpg" alt="Dashboard de Logística" width="800">
-</p>
+<img src="Dashboard Vendas/Dashboard_vendas.jpg" alt="Preview do Dashboard" />
+
