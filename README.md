@@ -2,7 +2,7 @@
  
 Repositório com projetos de **análise de dados e visualização em Power BI**, desenvolvidos para aprimorar a tomada de decisão e o monitoramento de indicadores de negócio em diferentes áreas: **Financeira, Logística e Vendas**.
 
-Cada dashboard foi construído a partir de um **business case realista**, aplicando conceitos de **modelagem de dados, criação de KPIs e storytelling visual**.
+Cada dashboard foi construído a partir de um **business case realista**, aplicando conceitos de **modelagem e tratamento de dados, linguagem DAX, criação de KPIs e storytelling visual**.
 
 ## 🚀 Projetos
 
