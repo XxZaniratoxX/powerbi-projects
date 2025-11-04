@@ -26,5 +26,5 @@ Visão integrada de **receitas, produção, sazonalidade e desempenho por fazend
 
 ## 👨‍💻 Desenvolvido por
 **Felipe Zanirato**  
-🔗 [GitHub](https://github.com/XxZaniratoxX)  
+🔗 [GitHub](https://github.com/fezanirato)  
 📧 [felipe.zanirato@outlook.com](mailto:felipe.zanirato@outlook.com)
