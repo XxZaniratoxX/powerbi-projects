@@ -1,32 +1,32 @@
-# 🚚 Dashboard de Logística | Comércio Exterior
+# Dashboard de Logística | Comércio Exterior
 
-## 🏢 Contexto
+## Contexto
 A área de comércio exterior de uma empresa automotiva busca melhorar o **monitoramento de embarques de importação**, reduzindo atrasos e garantindo o cumprimento de prazos.  
 O dashboard atua como uma **torre de controle logística**, oferecendo uma visão completa das operações e desempenho dos operadores.
 
-## 🎯 Objetivos da Análise
+## Objetivos da Análise
 1. **Monitoramento de Operações:** Separar embarques por modal (aéreo e marítimo).  
 2. **Indicadores de Entrega (OTD):** Avaliar entregas dentro do prazo por modal.  
 3. **Desempenho de Operadores:** Medir a performance das companhias logísticas.  
 4. **Exceções:** Identificar e categorizar problemas que afetam as entregas.
 
-## 📈 KPIs
+## KPIs
 - **Quantidade de Embarques**  
 - **OTD (On Time Delivery)**  
 - **Ranking de Exceções**  
 - **Desempenho por Operador**  
 - **Tendência Mensal de OTD**  
 
-## 🧠 Insights Possíveis
+## Insights Possíveis
 - Redução de atrasos e avarias.  
 - Melhor negociação com operadores logísticos.  
 - Identificação das principais causas de ineficiência.  
 
-## 🛠️ Ferramentas
+## Ferramentas
 - **Power BI**  
 - **Power Query / DAX**  
 - **Excel (fonte de dados)**  
 
-## 📸 Preview do Dashboard
+## Preview do Dashboard
 <img src="Dashboard Logística.jpg" alt="Preview do Dashboard" />
 
